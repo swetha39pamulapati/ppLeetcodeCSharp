@@ -1,0 +1,16 @@
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\bin\Debug\net5.0\RightViewOfBinaryTree.exe
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\bin\Debug\net5.0\RightViewOfBinaryTree.deps.json
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\bin\Debug\net5.0\RightViewOfBinaryTree.runtimeconfig.json
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\bin\Debug\net5.0\RightViewOfBinaryTree.runtimeconfig.dev.json
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\bin\Debug\net5.0\RightViewOfBinaryTree.dll
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\bin\Debug\net5.0\ref\RightViewOfBinaryTree.dll
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\bin\Debug\net5.0\RightViewOfBinaryTree.pdb
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\obj\Debug\net5.0\RightViewOfBinaryTree.csproj.AssemblyReference.cache
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\obj\Debug\net5.0\RightViewOfBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\obj\Debug\net5.0\RightViewOfBinaryTree.AssemblyInfoInputs.cache
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\obj\Debug\net5.0\RightViewOfBinaryTree.AssemblyInfo.cs
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\obj\Debug\net5.0\RightViewOfBinaryTree.csproj.CoreCompileInputs.cache
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\obj\Debug\net5.0\RightViewOfBinaryTree.dll
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\obj\Debug\net5.0\ref\RightViewOfBinaryTree.dll
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\obj\Debug\net5.0\RightViewOfBinaryTree.pdb
+D:\ppC#\RightViewOfBinaryTree\RightViewOfBinaryTree\obj\Debug\net5.0\RightViewOfBinaryTree.genruntimeconfig.cache
